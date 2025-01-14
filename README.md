@@ -6,6 +6,6 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love exploring patterns in data and believe every dataset tells a unique story.
 <!---
-kamleshrathore092/kamleshrathore092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kamlesh Rathore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
